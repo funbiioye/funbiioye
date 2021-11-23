@@ -1,7 +1,7 @@
 ### Hello there 👋🏾 
 
 
-I'm Oyelusi Oluwafunmibi Adesola, a strongly motivated Front-End Developer with a passion for designing well-functioning websites and web apps
+I'm **Oyelusi Oluwafunmibi Adesola**, a strongly motivated Front-End Developer with a passion for designing well-functioning websites and web apps
 
 
 - 🔭 I’m currently working on javaScript and Reactjs projects to enlarge my Portfolio and Knowledge base.
@@ -32,9 +32,9 @@ Completed the development of multiple web applications with Html, CSS andJavaScr
 
 #TECH-STACK
 ##Front-End
-*HTML
-*CSS	
-*Chakra UI
-*JavaScript
-*Reactjs
-*version control with Git
+-HTML
+-CSS	
+-Chakra UI
+-JavaScript
+-Reactjs
+-version control with Git
