@@ -12,6 +12,8 @@ I'm **Oyelusi Oluwafunmibi Adesola**, a strongly motivated Front-End Developer w
 - 📫 How to reach me: 📞 +234-810-184-6424 • 📞 +234-802-546-6898
 - ⚡ Fun fact: I am a chelseaFc fan, I love traveling, learing new things and playing FIFA
 
+#EDUCATION
+
   
 #EDUCATION
 ##FEDERAL UNIVERSITY OF AGRICULTURE ABEOKUTA 2019
