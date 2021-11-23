@@ -1,7 +1,9 @@
 ### Hello there 👋🏾 
 
 
-I'm **Oyelusi Oluwafunmibi Adesola**, a strongly motivated Front-End Developer with a passion for designing well-functioning websites and web apps
+I'm **Oyelusi Oluwafunmibi Adesola**, a strongly motivated Front-End Developer with a passion for designing well-functioning websites and web apps.
+
+#EDUCATION
 
 
 - 🔭 I’m currently working on javaScript and Reactjs projects to enlarge my Portfolio and Knowledge base.
